@@ -1,5 +1,7 @@
 # North Bergen, NJ Housing Price Analysis
 
+> **Status:** work in progress. [TODO] `data/nj_property_sales.csv`, `notebooks/north_bergen_housing_eda.ipynb` and `src/cleaning.py` are currently empty placeholders, so the findings below are **not yet backed by an analysis in this repo**.
+
 ## Overview
 This project analyzes residential property sales in North Bergen, New Jersey
 to identify factors that influence housing prices.
